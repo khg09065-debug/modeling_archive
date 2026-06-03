@@ -7,3 +7,5 @@ sqlalchemy
 python-dotenv
 pymysql
 jinja2
+hdbscan
+h3
