@@ -1,0 +1,5 @@
+1. HDBSCAN으로 변경시도
+2. optics로 변경시도
+
+DBSCAN
+- 절대로 min_samples의 값은 건드리지 않는다.(무조건 1로 고정)
