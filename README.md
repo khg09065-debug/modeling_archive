@@ -17,7 +17,8 @@
 | :--- | :--- | :--- |
 | **Pandas** | 파일 불러오기 | coffee_store, subway DB불러오기 |
 | **numpy** | 수식 계산 | 자연로그(1+x) -> 전철역 주변에 카페가 하나도 없음을 방지 |
-| **sklearn** | 군집화 모델 | KMeans -> 상권 성격타입 나눔, DBSCAN, HDBSCAN, OPTICS -> 전철역 상권 묶|
+| **sklearn** | 군집화 모델 | KMeans -> 상권 성격타입 나눔, 
+                              DBSCAN, HDBSCAN, OPTICS -> 전철역 상권 묶|
 | **pyplot** | 시각화 | |
 | **SQLalchemy** | MySQL 연동 | |
 
